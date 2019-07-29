@@ -1,0 +1,28 @@
+.sub-task .title.editor-with-link, .sub-task .title~.input-placeholder {
+	direction: rtl;
+	text-align: right;
+}
+
+.td-body .task-title {
+	direction: rtl;
+	text-align: right;
+}
+
+#project-name-bar {
+	direction: rtl;
+	text-align: right;
+}
+
+#add-task .task-title {
+    direction: rtl;
+    text-align: right;
+}
+
+.title.transition.text-def.typeahead.line-left.global-rtl {
+    direction: rtl;
+}
+
+pre.CodeMirror-line.global-rtl {
+    direction: rtl;
+    text-align: right;
+}
